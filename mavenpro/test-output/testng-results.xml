@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38953" started-at="2023-05-22T19:39:29 IST" finished-at="2023-05-22T19:40:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38953" started-at="2023-05-22T19:39:29 IST" finished-at="2023-05-22T19:40:08 IST">
+      <class name="org.newproject.mavenpro.Nykaa_ownproject">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="browserlaunch" duration-ms="3988" started-at="2023-05-22T19:39:29 IST" finished-at="2023-05-22T19:39:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="Homepage()[pri:1, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="Homepage" duration-ms="971" started-at="2023-05-22T19:39:33 IST" finished-at="2023-05-22T19:39:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method status="PASS" signature="selectproduct()[pri:2, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="selectproduct" duration-ms="794" started-at="2023-05-22T19:39:34 IST" finished-at="2023-05-22T19:39:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectproduct -->
+        <test-method status="PASS" signature="pincode(java.lang.String)[pri:3, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="pincode" duration-ms="1570" started-at="2023-05-22T19:39:35 IST" finished-at="2023-05-22T19:39:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[603209]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pincode -->
+        <test-method status="PASS" signature="addToCart()[pri:4, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="addToCart" duration-ms="90" started-at="2023-05-22T19:39:37 IST" finished-at="2023-05-22T19:39:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="cartpage()[pri:5, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="cartpage" duration-ms="3134" started-at="2023-05-22T19:39:37 IST" finished-at="2023-05-22T19:39:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartpage -->
+        <test-method status="PASS" signature="login(java.lang.String)[pri:6, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="login" duration-ms="2188" started-at="2023-05-22T19:39:40 IST" finished-at="2023-05-22T19:39:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9841641691]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="otp()[pri:7, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="otp" duration-ms="15825" started-at="2023-05-22T19:39:42 IST" finished-at="2023-05-22T19:39:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- otp -->
+        <test-method status="PASS" signature="address(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:8, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="address" duration-ms="10140" started-at="2023-05-22T19:39:58 IST" finished-at="2023-05-22T19:40:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[603209]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6/15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cheran street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sharmi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9841641691]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- address -->
+        <test-method status="PASS" signature="screenshot()[pri:9, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="screenshot" duration-ms="181" started-at="2023-05-22T19:40:08 IST" finished-at="2023-05-22T19:40:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method status="PASS" signature="backToHome()[pri:10, instance:org.newproject.mavenpro.Nykaa_ownproject@29b5cd00]" name="backToHome" duration-ms="30" started-at="2023-05-22T19:40:08 IST" finished-at="2023-05-22T19:40:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToHome -->
+      </class> <!-- org.newproject.mavenpro.Nykaa_ownproject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
